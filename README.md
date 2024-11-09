@@ -1,7 +1,7 @@
 # Heidels ETVR + PB Case models
 ## About❔
 
-This repository will have models of EyeTrackVR and Project Bubble mounts on a VR headset
+This repository will have models of EyeTrackVR and Project Babble mounts on a VR headset
 
 ## Warning⚠️
 
